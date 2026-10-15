@@ -1,4 +1,7 @@
-## Hi there 👋
+## About
+
+I'm an IST & cybersecurity student at CSU San Bernardino.
+
 
 <!--
 **TomRebolledo/tomrebolledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
